@@ -8,4 +8,6 @@ name = "최수호"                   # 문자형 변수
 age = 30                         # 숫자형 변수
 hobbies = ["excercise", "game"]  # 리스트 변수
 
+print(name)
+print(age)
 print(hobbies)
